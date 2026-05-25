@@ -1,0 +1,8 @@
+{
+    "name": "sysconfig-service",
+    "version": "1.0.166",
+    "private": false,
+    "environment": "production",
+    "build_id": 757,
+    "allow_public_access": true
+}
